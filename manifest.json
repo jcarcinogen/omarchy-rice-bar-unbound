@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.jcarcinogen.rice-bar-unbound",
+  "name": "Rice Bar Unbound",
+  "description": "An independent Nisfere-inspired full replacement bar for Omarchy Quattro, preserving hosted Omarchy widgets and panel routing.",
+  "version": "0.1.0",
+  "kinds": ["bar"],
+  "entryPoints": { "bar": "Bar.qml" }
+}
