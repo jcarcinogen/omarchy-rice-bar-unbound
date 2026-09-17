@@ -1,6 +1,6 @@
 # Rice Bar Unbound
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/scottangel)
+[![Tip with X Money](tip-with-x-money.png)](https://x.com/scottito22)
 
 An independent full replacement bar for Omarchy Quattro. This paused prototype uses a compact, Nisfere-inspired composition with soft theme-colored capsules while hosting Omarchy's real widgets and panels.
 
